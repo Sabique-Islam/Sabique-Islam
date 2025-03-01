@@ -24,7 +24,7 @@
 
 ### Recent GitHub Activity
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabique-Islam&bg_color=000000&color=ffffff&line=782b9c&point=ffffff&area=true&hide_border=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabique-Islam&bg_color=000000&color=ffffff&line=782b9c&point=ffffff&area=true&hide_border=true)
 
 ---
 
