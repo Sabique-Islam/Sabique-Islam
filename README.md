@@ -4,9 +4,7 @@
 
 ---
 
-## **Currently Working On:** Sentiment Analysis in C
-
-- Building an NLP toolkit in C to analyze sentence sentiments.
+- Currently Working on a CLI for Sentiment Analysis in C.
 
 ---
 
