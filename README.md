@@ -2,12 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Profile+Visitors)
 
----
-
-- Currently Working on a CLI for Sentiment Analysis in C.
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabique-Islam&show_icons=true&theme=midnight-purple&bg_color=1a1b27&title_color=c792ea&text_color=d1d5db&icon_color=7f5ac6&hide_border=true&count_private=true)
