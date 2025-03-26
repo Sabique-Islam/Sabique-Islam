@@ -25,10 +25,3 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sabique-Islam&theme=dark&background=1a1b27&border=c792ea&stroke=7f5ac6&ring=8a2be2&fire=c792ea&currStreakNum=d1d5db&sideNums=d1d5db&currStreakLabel=c792ea&sideLabels=c792ea)
 
 ---
-
-## Connect with Me
-
-
--   **Email:** [sabiqueislam7@gmail.com](mailto:sabiqueislam7@gmail.com)
-
-![Work](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVscmV4Nzl1anR2ZDViOXVvbWFrenRvOHpwMGNtZmlpdXM0b29vZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpkmJAzKCHVC1twi83/giphy.gif)
