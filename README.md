@@ -1,5 +1,5 @@
 # **👋 Hey there!**
-![Profile Views](https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Profile+Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Visitors)
 
 ---
 
