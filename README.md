@@ -4,6 +4,8 @@
 
 ![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+---
+
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabique-Islam&show_icons=true&theme=midnight-purple&bg_color=1a1b27&title_color=c792ea&text_color=d1d5db&icon_color=7f5ac6&hide_border=true&count_private=true&custom_title=Github%20Stats)
