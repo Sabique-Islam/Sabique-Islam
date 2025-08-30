@@ -21,6 +21,9 @@
 
 ---
 
-![VISITORS](https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Visitors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Visitors" alt="VISITORS" />
+</p>
+
 
 ---
