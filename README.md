@@ -1,6 +1,12 @@
 
 ---
 
+## About Me →
+
+I'm Sabique, a CSE student in Bangalore, India, working on full-stack web apps, building machine learning projects, and solving CTF challenges.
+
+---
+
 ## Overview →
 
 | Stats | Top Languages | Streak |
@@ -21,9 +27,19 @@
 
 ---
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+    <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes.]" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
+</div>
+
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sabique-Islam&color=8a2be2&style=flat-square&label=Visitors" alt="VISITORS" />
 </p>
-
 
 ---
