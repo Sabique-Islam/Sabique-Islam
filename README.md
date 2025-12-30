@@ -3,8 +3,9 @@
 
 <section>
   <h2>About Me →</h2>
-  <p>I build automation tools and web apps. Right now focused on OSINT and security.</p>
-
+  <p>I work on NLP, Infrastructure Systems, Low-Level Programming, and occasionally develop Web Apps. Right now focused on OSINT and security.</p>
+  
+<img src="https://komarev.com/ghpvc/?username=Sabique-Islam&color=000000"></img>
 ---
 
   <details class="socials">
