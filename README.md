@@ -5,7 +5,13 @@
   <h2>About Me →</h2>
   <p>I work on NLP, Infrastructure Systems, Low-Level Programming, and occasionally develop Web Apps. Right now focused on OSINT and security.</p>
   
-<img src="https://komarev.com/ghpvc/?username=Sabique-Islam&color=000000"></img>
+---
+
+| [![](https://img.shields.io/badge/Resume-View-000000?style=flat-square&logo=readthedocs&logoColor=ffffff)](https://cdn.nopejs.me/resume/resume.pdf) | [![](https://img.shields.io/badge/Portfolio-sabique.page-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://sabique.page) | ![](https://komarev.com/ghpvc/?username=Sabique-Islam&color=000000) |
+| --- | --- | --- |
+
+
+
 ---
 
   <details class="socials">
